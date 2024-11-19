@@ -15,6 +15,7 @@
         <li><em><strong>C++</strong></em> [For College mostly, sometimes for Arduino projects]</li>
         <li><em><strong>C#</strong></em> [For game development]</li>
         <li><em><strong>Python</strong></em> [For side projects (applications / software / games ect...)]</li>
+        <li><em><strong>MIPS Assembly Language</strong></em> [For College]</li>
     </ul>
   </li>
   <li>I'm open to collaborating depending on the project</li>
